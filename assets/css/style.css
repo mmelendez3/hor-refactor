@@ -4,15 +4,14 @@
     margin: 0;
 }
 
-/* added font family to reduce redunancy */
+/* gives entire webpage a unique background color and gill sans font */
 
 body {
     background-color: #d9dcd6;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
 }
 
-/* consolidated header code. changed selector names to correspond with html tags. 
-changed display inline-block --> inline. moved text formats to <h1> and <a> selectors. */
+/* styled header logo and nav links. displays everything inline */
 
 header {
     padding: 20px;
@@ -55,7 +54,7 @@ nav ul li a {
     
 }
 
-/* move hero section to follow header in logical step */
+/* styles hero img */
 
 .hero {
     height: 800px;
@@ -198,14 +197,15 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* centers and styles footer */
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
