@@ -1,6 +1,6 @@
 # What the Horiseon Website Is.
 
-- The Horiseon website highlights the company's marketing expertise specifically targeting the areas of SEO and social media influence.
+- The Horiseon website highlights the company's marketing expertise specifically targeting the areas of SEO, online repuation management, and social media influence.
 
 # Code Refactor Project
 
